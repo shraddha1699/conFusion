@@ -1,6 +1,6 @@
 	.row-header{
-	    margin: 0px auto;
-	    padding: 0px auto;
+        margin: 0px auto;
+        padding: 0px auto;
     }
 
     .row-content{
@@ -42,3 +42,4 @@
         border-bottom: 1px solid #ddd;
         padding: 10px;
     }
+    
